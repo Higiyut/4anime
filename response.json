@@ -2,32 +2,36 @@
     {
         "createdAt": "2024-08-18T12:11:15.785Z",
         "name": "ئاگاداربە",
+        "title": "ئاگاداربە",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/learn-game-3r1o9y.appspot.com/o/photo_2024-07-24_01-00-21.jpg?alt=media&token=eb92a69c-7167-4a09-8b0f-294879b5ff8c",
         "id": "1"
     },
     {
         "createdAt": "2024-08-18T06:05:21.779Z",
         "name": "Demon",
+        "title": "Demon",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/for-anime-play-p08jjv.appspot.com/o/photo_2024-03-07_12-28-05.jpg?alt=media&token=fe9b98f0-3708-4085-83f0-17ef5d98f1c5",
         "id": "2"
     },
     {
         "createdAt": "2024-08-18T18:54:05.082Z",
         "name": "Blue",
+        "title": "Blue",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/for-anime-play-p08jjv.appspot.com/o/photo_2024-07-10_15-45-09.jpg?alt=media&token=f6675cef-fafb-42f6-b365-275af79f6b7c",
         "id": "3"
     },
     {
         "createdAt": "2024-08-18T07:48:14.407Z",
         "name": "Aram",
+        "title": "Aram",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/for-anime-play-p08jjv.appspot.com/o/photo_2024-03-07_11-29-08.jpg?alt=media&token=39dc19f1-7d6f-46a0-b94a-ce17391b0cd2",
         "id": "4"
     },
     {
         "createdAt": "2024-08-18T12:11:15.785Z",
         "name": "ئاگاداربە",
+        "title": "ئاگاداربە",
         "avatar": "https://firebasestorage.googleapis.com/v0/b/learn-game-3r1o9y.appspot.com/o/photo_2024-07-24_01-00-21.jpg?alt=media&token=eb92a69c-7167-4a09-8b0f-294879b5ff8c",
         "id": "5"
     }
 ]
-
