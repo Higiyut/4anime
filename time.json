@@ -1,0 +1,51 @@
+[
+    {
+        "createdAt": "2024-08-18T12:11:15.785Z",
+        "name": "سۆشیال میدیای رەش",
+        "title": "بەمزوانە چاوەڕوانی ئەپی سەرەکی بن",
+        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=11d95d67-ba9b-4a1d-b544-c991698dafc6&pi=e9d4454b-685f-4b1e-9370-378578c2d0f1",
+        "id": "7"
+    },
+    {
+        "createdAt": "2024-08-18T12:12:20.785Z",
+        "name": "تکنۆلۆژیای رەش",
+        "title": "وەرگرتنی ئەپی نوێ",
+        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=22e95d67-ba9b-4a1d-b544-c991698dafc7&pi=f9e4454b-685f-4b1e-9370-378578c2d1f2",
+        "id": "7"
+    },
+    {
+        "createdAt": "2024-08-18T12:13:25.785Z",
+        "name": "بازاڕی ژینگەی رەش",
+        "title": "دووبارە بوونەوەی چاوەڕوانی",
+        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=33f95d67-ba9b-4a1d-b544-c991698dafc8&pi=g9f4454b-685f-4b1e-9370-378578c2d2f3",
+        "id": "7"
+    },
+    {
+        "createdAt": "2024-08-18T12:14:30.785Z",
+        "name": "پەروەردەی رەش",
+        "title": "بەدەست هێنانی زانیاری نوێ",
+        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=44g95d67-ba9b-4a1d-b544-c991698dafc9&pi=h9g4454b-685f-4b1e-9370-378578c2d3f4",
+        "id": "7"
+    },
+    {
+        "createdAt": "2024-08-18T12:15:35.785Z",
+        "name": "زانکۆی رەش",
+        "title": "هەنگاوە نوێیەکان لە خوێندن",
+        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=55h95d67-ba9b-4a1d-b544-c991698dafc0&pi=i9h4454b-685f-4b1e-9370-378578c2d4f5",
+        "id": "7"
+    },
+    {
+        "createdAt": "2024-08-18T12:16:40.785Z",
+        "name": "کەرتی بەرواری رەش",
+        "title": "هەواڵەکان لە دەستەکان",
+        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=66i95d67-ba9b-4a1d-b544-c991698dafc1&pi=j9i4454b-685f-4b1e-9370-378578c2d5f6",
+        "id": "7"
+    },
+    {
+        "createdAt": "2024-08-18T12:17:45.785Z",
+        "name": "چالاکیەکانی رەش",
+        "title": "زانیارییەکان لەبارەی ڕووداوەکان",
+        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=77j95d67-ba9b-4a1d-b544-c991698dafc2&pi=k9j4454b-685f-4b1e-9370-378578c2d6f7",
+        "id": "7"
+    }
+]
