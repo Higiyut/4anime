@@ -1,51 +1,113 @@
-[
-    {
-        "createdAt": "شەمە",
-        "name": "ئەلقەی ١١",
-        "title": "کاژمێر ٩:٣٠",
-        "avatar": "https://firebasestorage.googleapis.com/v0/b/for-anime-play-p08jjv.appspot.com/o/photo_2024-03-07_12-28-54.jpg?alt=media&token=61e107c4-339c-47e6-b957-0655bc130889",
-        "id": "1"
+{
+    "movies": {
+        "movie1": {
+            "id": "m001",
+            "title": "The Dark Knight",
+            "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+            "releaseYear": 2008,
+            "duration": "2h 32min",
+            "posterUrl": "https://example.com/dark_knight_poster.jpg",
+            "trailerUrl": "https://example.com/dark_knight_trailer.mp4",
+            "genre": ["Action", "Crime", "Drama"],
+            "rating": 9.0,
+            "director": "Christopher Nolan",
+            "cast": [
+                "Christian Bale",
+                "Heath Ledger",
+                "Aaron Eckhart"
+            ]
+        },
+        "movie2": {
+            "id": "m002",
+            "title": "Inception",
+            "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+            "releaseYear": 2010,
+            "duration": "2h 28min",
+            "posterUrl": "https://example.com/inception_poster.jpg",
+            "trailerUrl": "https://example.com/inception_trailer.mp4",
+            "genre": ["Action", "Adventure", "Sci-Fi"],
+            "rating": 8.8,
+            "director": "Christopher Nolan",
+            "cast": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt",
+                "Ellen Page"
+            ]
+        }
     },
-    {
-        "createdAt": "2024-08-18T12:12:20.785Z",
-        "name": "تکنۆلۆژیای رەش",
-        "title": "وەرگرتنی ئەپی نوێ",
-        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=22e95d67-ba9b-4a1d-b544-c991698dafc7&pi=f9e4454b-685f-4b1e-9370-378578c2d1f2",
-        "id": "2"
-    },
-    {
-        "createdAt": "2024-08-18T12:13:25.785Z",
-        "name": "بازاڕی ژینگەی رەش",
-        "title": "دووبارە بوونەوەی چاوەڕوانی",
-        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=33f95d67-ba9b-4a1d-b544-c991698dafc8&pi=g9f4454b-685f-4b1e-9370-378578c2d2f3",
-        "id": "3"
-    },
-    {
-        "createdAt": "2024-08-18T12:14:30.785Z",
-        "name": "پەروەردەی رەش",
-        "title": "بەدەست هێنانی زانیاری نوێ",
-        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=44g95d67-ba9b-4a1d-b544-c991698dafc9&pi=h9g4454b-685f-4b1e-9370-378578c2d3f4",
-        "id": "4"
-    },
-    {
-        "createdAt": "2024-08-18T12:15:35.785Z",
-        "name": "زانکۆی رەش",
-        "title": "هەنگاوە نوێیەکان لە خوێندن",
-        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=55h95d67-ba9b-4a1d-b544-c991698dafc0&pi=i9h4454b-685f-4b1e-9370-378578c2d4f5",
-        "id": "5"
-    },
-    {
-        "createdAt": "2024-08-18T12:16:40.785Z",
-        "name": "کەرتی بەرواری رەش",
-        "title": "هەواڵەکان لە دەستەکان",
-        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=66i95d67-ba9b-4a1d-b544-c991698dafc1&pi=j9i4454b-685f-4b1e-9370-378578c2d5f6",
-        "id": "6"
-    },
-    {
-        "createdAt": "2024-08-18T12:17:45.785Z",
-        "name": "چالاکیەکانی رەش",
-        "title": "زانیارییەکان لەبارەی ڕووداوەکان",
-        "avatar": "https://embed.wowza.com/api/video/embed.jsp?id=77j95d67-ba9b-4a1d-b544-c991698dafc2&pi=k9j4454b-685f-4b1e-9370-378578c2d6f7",
-        "id": "7"
+    "series": {
+        "series1": {
+            "id": "s001",
+            "title": "Breaking Bad",
+            "description": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to secure his family's financial future as he battles terminal lung cancer.",
+            "startYear": 2008,
+            "endYear": 2013,
+            "posterUrl": "https://example.com/breaking_bad_poster.jpg",
+            "trailerUrl": "https://example.com/breaking_bad_trailer.mp4",
+            "genre": ["Crime", "Drama", "Thriller"],
+            "rating": 9.5,
+            "creator": "Vince Gilligan",
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "episodeId": "s001e001",
+                            "title": "Pilot",
+                            "duration": "58min",
+                            "thumbnailUrl": "https://example.com/s1e1_thumb.jpg",
+                            "videoUrl": "https://example.com/s1e1_video.mp4"
+                        },
+                        {
+                            "episodeId": "s001e002",
+                            "title": "Cat's in the Bag...",
+                            "duration": "48min",
+                            "thumbnailUrl": "https://example.com/s1e2_thumb.jpg",
+                            "videoUrl": "https://example.com/s1e2_video.mp4"
+                        }
+                    ]
+                }
+            ],
+            "cast": [
+                "Bryan Cranston",
+                "Aaron Paul",
+                "Anna Gunn"
+            ]
+        },
+        "series2": {
+            "id": "s002",
+            "title": "Stranger Things",
+            "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.",
+            "startYear": 2016,
+            "ongoing": true,
+            "posterUrl": "https://example.com/stranger_things_poster.jpg",
+            "trailerUrl": "https://example.com/stranger_things_trailer.mp4",
+            "genre": ["Drama", "Fantasy", "Horror"],
+            "rating": 8.7,
+            "creators": [
+                "Matt Duffer",
+                "Ross Duffer"
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "episodeId": "s002e001",
+                            "title": "Chapter One: The Vanishing of Will Byers",
+                            "duration": "47min",
+                            "thumbnailUrl": "https://example.com/st_s1e1_thumb.jpg",
+                            "videoUrl": "https://example.com/st_s1e1_video.mp4"
+                        }
+                    ]
+                }
+            ],
+            "cast": [
+                "Millie Bobby Brown",
+                "Finn Wolfhard",
+                "Winona Ryder"
+            ]
+        }
     }
-]
+}
+
