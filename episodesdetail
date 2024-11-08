@@ -1,0 +1,66 @@
+{
+    "movie": {
+        "id": "1",
+        "image": "https://example.com/movie-poster.jpg",
+        "title": "وەن پیس",
+        "genre": "ئاکشن",
+        "story": "چیرۆکی لوفی و هاوڕێکانی لە گەشتەکەیان بۆ دۆزینەوەی گەنجینەی وەن پیس",
+        "episodes": [
+            {
+                "number": 1,
+                "image": "https://example.com/ep1.jpg",
+                "description": "لوفی دەست بە گەشتەکەی دەکات"
+            },
+            {
+                "number": 2,
+                "image": "https://example.com/ep2.jpg", 
+                "description": "یەکەم هاوڕێی دەدۆزێتەوە"
+            },
+            {
+                "number": 3,
+                "image": "https://example.com/ep3.jpg",
+                "description": "ڕووبەڕووی یەکەم دوژمن دەبێتەوە"
+            },
+            {
+                "number": 4,
+                "image": "https://example.com/ep4.jpg",
+                "description": "گەشت بۆ دوورگەی نوێ"
+            },
+            {
+                "number": 5,
+                "image": "https://example.com/ep5.jpg",
+                "description": "شەڕێکی گەورە"
+            },
+            {
+                "number": 6,
+                "image": "https://example.com/ep6.jpg",
+                "description": "نهێنیەک ئاشکرا دەبێت"
+            },
+            {
+                "number": 7,
+                "image": "https://example.com/ep7.jpg",
+                "description": "هاوڕێیەکی نوێ"
+            },
+            {
+                "number": 8,
+                "image": "https://example.com/ep8.jpg",
+                "description": "گەنجینەیەکی نوێ"
+            },
+            {
+                "number": 9,
+                "image": "https://example.com/ep9.jpg",
+                "description": "ڕێگایەکی مەترسیدار"
+            },
+            {
+                "number": 10,
+                "image": "https://example.com/ep10.jpg",
+                "description": "کۆتایی وەرزی یەکەم"
+            }
+        ]
+    }
+}
+
+
+
+
+
