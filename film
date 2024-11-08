@@ -1,0 +1,25 @@
+{
+    "movies": {
+        "movie1": {
+            "id": "1",
+            "image": "https://example.com/movie1.jpg"
+        },
+        "movie2": {
+            "id": "2", 
+            "image": "https://example.com/movie2.jpg"
+        },
+        "movie3": {
+            "id": "3",
+            "image": "https://example.com/movie3.jpg"
+        },
+        "movie4": {
+            "id": "4",
+            "image": "https://example.com/movie4.jpg"
+        },
+        "movie5": {
+            "id": "5",
+            "image": "https://example.com/movie5.jpg"
+        }
+    }
+}
+
