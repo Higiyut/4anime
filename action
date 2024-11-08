@@ -1,0 +1,52 @@
+{
+    "movies": {
+        "movie1": {
+            "id": "1",
+            "title": "The Dark Knight",
+            "genre": "Action/Crime/Drama",
+            "image": "https://example.com/dark_knight.jpg"
+        },
+        "movie2": {
+            "id": "2", 
+            "title": "Inception",
+            "genre": "Sci-Fi/Action/Thriller",
+            "image": "https://example.com/inception.jpg"
+        },
+        "movie3": {
+            "id": "3",
+            "title": "The Shawshank Redemption",
+            "genre": "Drama",
+            "image": "https://example.com/shawshank.jpg"
+        },
+        "movie4": {
+            "id": "4",
+            "title": "Pulp Fiction",
+            "genre": "Crime/Drama",
+            "image": "https://example.com/pulp_fiction.jpg"
+        },
+        "movie5": {
+            "id": "5",
+            "title": "The Matrix",
+            "genre": "Sci-Fi/Action",
+            "image": "https://example.com/matrix.jpg"
+        },
+        "movie6": {
+            "id": "6",
+            "title": "Forrest Gump",
+            "genre": "Drama/Romance",
+            "image": "https://example.com/forrest_gump.jpg"
+        },
+        "movie7": {
+            "id": "7",
+            "title": "The Godfather",
+            "genre": "Crime/Drama",
+            "image": "https://example.com/godfather.jpg"
+        },
+        "movie8": {
+            "id": "8",
+            "title": "Interstellar",
+            "genre": "Sci-Fi/Adventure/Drama",
+            "image": "https://example.com/interstellar.jpg"
+        }
+    }
+}
