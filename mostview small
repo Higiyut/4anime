@@ -1,0 +1,10 @@
+{
+    "movies": {
+        "movie1": {
+            "id": "1",
+            "title": "Sample Movie Title",
+            "description": "This is a sample movie description that provides details about the movie.",
+            "image": "https://example.com/poster.jpg"
+        }
+    }
+}
