@@ -35,12 +35,14 @@
             "title": "Forrest Gump",
             "genre": "Drama/Romance",
             "image": "https://example.com/forrest_gump.jpg"
+
         },
-        "movie7": {
-            "id": "7",
-            "title": "The Godfather",
-            "genre": "Crime/Drama",
-            "image": "https://example.com/godfather.jpg"
+        "movie6": {
+            "id": "9",
+            "title": "وەن پیس ",
+            "genre": "ئاکشن",
+            "image": "https://example.com/forrest_gump.jpg"
+    
         },
         "movie8": {
             "id": "8",
